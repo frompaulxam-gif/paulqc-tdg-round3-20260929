@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "code": "00-heart-C",
+      "brand": "Heart D",
+      "variants": [
+        {
+          "id": "00-heart-C-original",
+          "label": "Original",
+          "reference": true,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/00-heart-C-original.png"
+        },
+        {
+          "id": "00-heart-C-rev-b",
+          "label": "Natural D",
+          "reference": false,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/00-heart-C-rev-b.png"
+        }
+      ]
+    },
+    {
+      "code": "00-heart-D",
+      "brand": "Heart D",
+      "variants": [
+        {
+          "id": "00-heart-D-original",
+          "label": "Original",
+          "reference": true,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/00-heart-D-original.png"
+        },
+        {
+          "id": "00-heart-D-rev-c",
+          "label": "Parallel D",
+          "reference": false,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/00-heart-D-rev-c.png"
+        }
+      ]
+    },
+    {
+      "code": "03-02",
+      "brand": "Linked figures",
+      "variants": [
+        {
+          "id": "03-02-previous",
+          "label": "Previous",
+          "reference": true,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/03-02-previous.png"
+        },
+        {
+          "id": "03-02-TDG-only",
+          "label": "TDG only",
+          "reference": false,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/03-02-TDG-only.png"
+        }
+      ]
+    },
+    {
+      "code": "07-03",
+      "brand": "Kept originals",
+      "variants": [
+        {
+          "id": "07-03-kept",
+          "label": "Kept",
+          "reference": true,
+          "width": 1774,
+          "height": 887,
+          "image": "media/07-03-kept.png"
+        }
+      ]
+    },
+    {
+      "code": "07-04",
+      "brand": "Kept originals",
+      "variants": [
+        {
+          "id": "07-04-kept",
+          "label": "Kept",
+          "reference": true,
+          "width": 1774,
+          "height": 887,
+          "image": "media/07-04-kept.png"
+        }
+      ]
+    }
+  ]
+}

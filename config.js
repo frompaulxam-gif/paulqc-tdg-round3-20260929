@@ -1,0 +1,1 @@
+const CONFIG={"id": "paulqc-tdg-round3-20260929", "title": "TD / TDG Round 3 QC", "store": "https://textdb.dev/api/data/qc-199aa9f97925404ba326c7e8"};
